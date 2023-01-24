@@ -1,0 +1,21 @@
+{
+  "name": "new-plugin",
+  "version": "1.0.0",
+  "description": "New Cordova plugin",
+  "cordova": {
+    "id": "new-plugin",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "cordova-android",
+    "cordova-ios",
+    "swift",
+    "kotlin"
+  ],
+  "author": "Dariusz Zabrzeński",
+  "license": "MIT"
+}
